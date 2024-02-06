@@ -1,0 +1,4 @@
+
+ORM query for inse=rting values
+
+employee,objects.create()
